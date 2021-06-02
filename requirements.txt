@@ -1,23 +1,14 @@
 beautifulsoup4==4.9.1
 bs4==0.0.1
-flake8 @ file:///tmp/build/80754af9/flake8_1601911421857/work
 Flask==1.1.2
 googlesearch-python==2020.0.2
-jdcal==1.4.1
-jedi @ file:///C:/ci/jedi_1592833825077/work
-Jinja2==2.11.2
-joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+joblib==0.14.0
 json5==0.9.5
-matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1605117425582/work
-packaging==20.4
-pandas @ file:///C:/ci/pandas_1602083338010/work
+matplotlib==3.1.1
+numpy==1.17.2
+pandas==1.2.4
 python-whois==0.7.3
-regex @ file:///C:/ci/regex_1602770567298/work
-requests @ file:///tmp/build/80754af9/requests_1592841827918/work
-scikit-image==0.17.2
-scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
-scipy @ file:///C:/ci/scipy_1604596260408/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1600553570093/work
+requests==2.25.1
+scikit-learn==0.21.3
+
 
